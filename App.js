@@ -100,7 +100,7 @@ class App extends Component {
           <TextArea
             key="text-area"
             id={`article-${idx}`}
-            text={data[idx].content}
+            text={data[idx].message}
             categories={categories}
             runs={runs[idx]}
             onSaved={this.saveRuns(idx)}
