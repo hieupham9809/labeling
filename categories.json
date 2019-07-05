@@ -1,73 +1,73 @@
 {
-  "addr_street123": {
+  "name_activity": {
     "color": "#f9c069",
-    "shortcut": "S"
-  },
-  "addr_district": {
-    "color": "#d5daac",
-    "shortcut": "D"
-  },
-  "addr_city": {
-    "color": "#9d8fc2",
-    "shortcut": "C"
-  },
-  "addr_ward": {
-    "color": "#a6949f",
-    "shortcut": "W"
-  },
-  "position": {
-    "color": "#51A3A3",
-    "shortcut": "P"
-  },
-  "area": {
-    "color": "#48D683",
-    "shortcut": "A"
-  },
-  "price": {
-    "color": "#F6FA67",
-    "shortcut": "M"
-  },
-  "transaction_type": {
-    "color": "#a6b1a1",
     "shortcut": "T"
   },
-  "realestate_type": {
-    "color": "#f973c5",
-    "shortcut": "E"
-  },
-  "legal": {
-    "color": "#e97b27",
+  "type_activity": {
+    "color": "#d5daac",
     "shortcut": "L"
   },
-  "potential": {
-    "color": "#6e2241",
-    "shortcut": "O"
+  "holder": {
+    "color": "#9d8fc2",
+    "shortcut": "B"
   },
-  "surrounding": {
-    "color": "#5ae2f7",
-    "shortcut": "U"
+  "clock_time": {
+    "color": "#a6949f",
+    "shortcut": "G"
   },
-  "surrounding_characteristics": {
-    "color": "#5c78eb",
-    "shortcut": "I"
-  },
-  "surrounding_name": {
-    "color": "#45a0ac",
+  "date_time": {
+    "color": "#51A3A3",
     "shortcut": "N"
   },
-  "interior_floor": {
-    "color": "#F00705",
-    "shortcut": "F"
+  "province": {
+    "color": "#48D683",
+    "shortcut": "I"
   },
-  "interior_room": {
-    "color": "#e37163",
-    "shortcut": "R"
-  },
-  "orientation": {
-    "color": "#2a920b",
+  "town": {
+    "color": "#F6FA67",
     "shortcut": "H"
   },
-  "project": {
+  "name_place": {
+    "color": "#a6b1a1",
+    "shortcut": "R"
+  },
+  "building": {
+    "color": "#f973c5",
+    "shortcut": "U"
+  },
+  "room": {
+    "color": "#e97b27",
+    "shortcut": "P"
+  },
+  "DRL": {
+    "color": "#6e2241",
+    "shortcut": "D"
+  },
+  "CTXH": {
+    "color": "#5ae2f7",
+    "shortcut": "C"
+  },
+  "holder_name": {
+    "color": "#5c78eb",
+    "shortcut": "E"
+  },
+  "phone": {
+    "color": "#45a0ac",
+    "shortcut": "S"
+  },
+  "email": {
+    "color": "#F00705",
+    "shortcut": "M"
+  },
+  "assign": {
+    "color": "#e37163",
+    "shortcut": "K"
+  },
+  "works": {
+    "color": "#2a920b",
+    "shortcut": "V"
+  },
+  "joiner": {
     "color": "#C3E991",
     "shortcut": "J"
   }
